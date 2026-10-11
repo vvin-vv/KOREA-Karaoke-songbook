@@ -1,0 +1,9 @@
+{
+  "name":"my-songbook",
+  "version":"1.1.0",
+  "private":true,
+  "type":"module",
+  "description":"iPhone PWA karaoke song number book",
+  "scripts":{"dev":"node dev-server.js","test":"node --test tests/*.mjs"},
+  "engines":{"node":">=18"}
+}
